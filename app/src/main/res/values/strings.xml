@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NikeApp</string>
+    <string name="term">Term</string>
+    <string name="error">Something wrong happen, please try again.</string>
+    <string name="definition">Definition</string>
+    <string name="search_hint">Search</string>
+    <string name="no_entries">No Entries</string>
+</resources>
